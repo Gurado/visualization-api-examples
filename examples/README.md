@@ -3,7 +3,6 @@
  1. [Calendar](#calendar) - display a heatmap of daily data
  1. [Chord](#chord) - display relationships between two dimensions
  1. [Collapsible Tree](#collapsible-tree) - visualize a hierarchy
- 1. [Heatmap](#heatmap) - two dimensional display of tabular data highlighting correlations
  1. [Matrix](#matrix) - a reorderable heatmap visualization for a matrix
  1. [Sankey](#sankey) - display sequences of transitions
  1. [Sunburst](#sankey) - display hierarchical data in a nested structure
