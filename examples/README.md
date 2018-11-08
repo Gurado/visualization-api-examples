@@ -35,9 +35,3 @@
 # Sunburst
 
 [![](sunburst/sunburst.png)](sunburst/sunburst.js)
-
-# Treemap
-
-[![](highcharts_example/treemap.gif)](highcharts_example/highcharts_treemap.js)
-[![](treemap/treemap.png)](treemap/treemap.js)
-
